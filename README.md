@@ -28,7 +28,7 @@ O código do aplicativo é baseado em um **StatefulWidget** chamado `Jogo`, que 
 
 ### Principais funções:
 
-- **_jogar(String escolhaUsuario)**: Recebe a opção escolhida pelo usuário, gera a escolha aleatória do computador, compara os resultados e exibe a mensagem correspondente.
+- **jogar(String escolhaUsuario)**: Recebe a opção escolhida pelo usuário, gera a escolha aleatória do computador, compara os resultados e exibe a mensagem correspondente.
 - **build()**: Constrói a interface gráfica, exibindo as imagens e o resultado da partida.
 
 ## Como Executar
