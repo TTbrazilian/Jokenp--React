@@ -31,23 +31,6 @@ O código do aplicativo é baseado em um **StatefulWidget** chamado `Jogo`, que 
 - **_jogar(String escolhaUsuario)**: Recebe a opção escolhida pelo usuário, gera a escolha aleatória do computador, compara os resultados e exibe a mensagem correspondente.
 - **build()**: Constrói a interface gráfica, exibindo as imagens e o resultado da partida.
 
-## Imagens Utilizadas
-
-As imagens de **Pedra**, **Papel** e **Tesoura** são usadas para representar as opções disponíveis no jogo. Elas devem estar armazenadas na pasta `images` dentro do diretório do projeto.
-
-### Imagens:
-
-```
-images/
-  - pedra.png
-  - papel.png
-  - tesoura.png
-  - padrao.png
-
-lib/
-  - main.dart (arquivo principal do aplicativo)
-```
-
 ## Como Executar
 
 1. **Instalar o Flutter**:
@@ -72,7 +55,7 @@ lib/
    flutter run
    ```
 
-Imagem do Modelo do APP:
+## Imagens
 
  ![Imagem1](https://github.com/user-attachments/assets/7139d4ba-b462-4f25-84f5-77c8278c9c98)
 
