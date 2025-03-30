@@ -72,4 +72,6 @@ lib/
    flutter run
    ```
 
-**Imagem do Modelo do APP:** ![Imagem1](https://github.com/user-attachments/assets/7139d4ba-b462-4f25-84f5-77c8278c9c98)
+**Imagem do Modelo do APP:
+
+** ![Imagem1](https://github.com/user-attachments/assets/7139d4ba-b462-4f25-84f5-77c8278c9c98)
